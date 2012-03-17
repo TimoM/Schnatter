@@ -1,3 +1,3 @@
 ## Schnatter – PHP BlogEngine
 
-Schnatter ist still in development and not supposed for practical.
+Schnatter is still in development and not supposed for practical use.
